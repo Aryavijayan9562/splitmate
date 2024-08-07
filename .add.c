@@ -12,4 +12,5 @@
         printf("%d",&d);
         z=a-b;
         printf("%d",&z);
+        a=a++;
     }
