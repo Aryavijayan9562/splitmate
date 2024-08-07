@@ -5,7 +5,7 @@
         int b=10;
         int c;
         int d;
-        int z;
+        int e;
         c=a+b;
         printf("%d",&c);
         d=a*b;
